@@ -7,3 +7,14 @@ sentence-transformers
 faiss-cpu
 nest_asyncio
 langchain-text-splitters
+
+fastapi
+uvicorn
+pymupdf
+pymupdf4llm
+paddleocr
+sentence-transformers
+faiss-cpu
+nest_asyncio
+openai
+numpy
