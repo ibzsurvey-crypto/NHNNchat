@@ -1,9 +1,0 @@
-pymupdf
-pymupdf4llm
-openai
-paddlepaddle>=3.3
-"paddleocr[doc-parser]>=3.4.1"
-sentence-transformers
-faiss-cpu
-nest_asyncio
-langchain-text-splitters
